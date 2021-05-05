@@ -1,0 +1,53 @@
+.c-lanche{
+  display: flex;
+  position: static;
+  padding-top: 50px;
+  padding-left: 200px;
+  height: 388px;
+  width: 597px;
+}
+
+.c-descriçao{
+  position: static;
+  width: 597px;
+  height: 65.17px;
+  left: 0px;
+  top: 524.41px;
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  font-size: 20px;
+  line-height: 120%;
+  display: flex;
+  align-items: center;
+  padding-left: 50px;
+  color: #4E4E4E;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 120%;
+}
+
+.c-paragrafo{
+  position: static;
+  width: 528.56px;
+  height: 91.59px;
+  left: 0px;
+  top: 524.41px;
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 120%;
+  padding: 2%;
+}
+
+.c-preço{
+  padding-left: 50px;
+  
+}
+
+.c-preço2{
+  padding-left: 50px;
+  
+}
+

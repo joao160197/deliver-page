@@ -1,0 +1,61 @@
+
+    .c-cruz{
+      position: absolute;
+       width: 20px;
+       height: 20px;
+      top: 500px;
+      left: 1098px;
+    }
+
+    .c{
+      position: absolute;
+      width: 20px;
+      height: 20px;
+      top: 355px;
+      left: 1040px;
+    }
+    
+    .c2{
+      position: absolute;
+      width: 20px;
+      height: 20px;
+      top: 573px;
+      left: 1038px
+      }
+
+    .c3{
+      position: absolute;
+      width: 20px;
+      height: 20px;
+      top: 711px;
+      left: 890px;
+     }
+
+    .c-cruz2{
+      position: absolute;
+      width: 20px;
+      height: 20px;
+      left: 1090px;
+      bottom: -10px;
+    }
+
+    .c-cruz3{
+      position: absolute;
+      width: 20px;
+      left: 940px;
+      top: 712px;
+    }
+
+    .c-cruz4{
+      position: absolute;
+      width: 20px;
+      left: 1089px;
+      top: 355px;
+    }
+
+    .c-cruz5{
+      position: absolute;
+      width: 20px;
+      left: 1099px;
+      top: 420px;
+    }
