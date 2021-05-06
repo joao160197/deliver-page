@@ -1,4 +1,7 @@
- ![image](https://user-images.githubusercontent.com/74571057/117327675-3fcb0180-ae69-11eb-902c-5df00a612e48.png)
+
+Alguns prints da pagina:
+
+![image](https://user-images.githubusercontent.com/74571057/117327675-3fcb0180-ae69-11eb-902c-5df00a612e48.png)
 
 ![image](https://user-images.githubusercontent.com/74571057/117327731-4d808700-ae69-11eb-8cbe-03cf7590f4e0.png)
 
